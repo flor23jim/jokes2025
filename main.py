@@ -3,8 +3,8 @@
 
 # make this performance task ready for submission
 # To give the user a fun experience hearing knock knock jokes
-
 joke = input("Do you want to hear a joke? ")
+
 if joke == "no":
     print("Okay suit yourself!")
 while joke == "yes":
@@ -35,3 +35,12 @@ if joke == "finished":
         print("Thanks, we appreciate it. ")
     else:
         print("Sorry you did not enjoy it. ")
+
+# x = input("Do you want to hear a joke? ")
+# if x == "no":
+#     print("Okay suit yourself!")
+# while x == "yes":
+#     print("Great, Let's Play")
+# type=[robot]
+# def joke(question):
+#     if joke 
